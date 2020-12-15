@@ -16,10 +16,9 @@ Rhetorical: Do you know that person?
 
 The main motivation behind this project is to develop a model that will consider intonation, stress and other speech attributes to classify the group questions. The current speech recognizer examples such as Google Home mini and Alexa can understand speech and respond accordingly. But these techniques are not smart enough to detect echo questions, rhetorical questions, etc. For an instance, questions like - "What is your name?" is easily recognizable by the current systems. But if the question is of echo type - "Your name is abc?", then in this case the current systems will classify it as a normal sentence. But our model will classify these types also as "Questions" only unlike the current systems.
 
-Report [LINK].
+Report [[LINK] (https://github.com/akterTaslima/RhetoricalQuestion_Recognition/blob/master/takter%2Chmahtta%2Cknayem_automatic-question-detection.pdf)].
 
-Full dataset is available on request. [LINK]
-
+Full dataset is available on request. 
  
 ### Authors:
 
