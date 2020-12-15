@@ -22,7 +22,7 @@ Full dataset is available on request.
  
 ### Authors:
 
-TASLIMA AKTER, Indiana University Bloomington, USA
+TASLIMA AKTER (takter@iu.edu), Indiana University Bloomington, USA
 
 KHANDOKAR MD. NAYEM, Indiana University Bloomington, USA
 
